@@ -1,0 +1,7 @@
+body { font-family: Arial, sans-serif; margin: 0; background: #f3f5f9; }
+header { display: flex; align-items: center; gap: 16px; padding: 16px 24px; background: #1a237e; color: #fff; }
+.logo { width: 64px; height: 64px; border-radius: 50%; background: #fff; }
+main { padding: 24px; }
+table { border-collapse: collapse; min-width: 460px; background: #fff; }
+th, td { border: 1px solid #c5cae9; padding: 8px 12px; text-align: left; }
+th { background: #e8eaf6; }

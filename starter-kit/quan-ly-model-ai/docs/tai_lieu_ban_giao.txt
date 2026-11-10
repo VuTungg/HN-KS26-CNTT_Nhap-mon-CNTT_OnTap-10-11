@@ -1,0 +1,3 @@
+Ban giao du an website quan ly cac model AI (AIHub).
+Trang web demo nam trong thu muc web: logo khong hien va bang danh sach model AI khong hien.
+Tuyet doi khong upload file .env chua API Key len GitHub.
